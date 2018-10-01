@@ -1,0 +1,26 @@
+{
+  "name": "EjemploExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlmaVillegas/EjemploExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlmaVillegas/EjemploExpress/issues"
+  },
+  "homepage": "https://github.com/AlmaVillegas/EjemploExpress#readme"
+}
